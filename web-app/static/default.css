@@ -1,0 +1,316 @@
+body {
+        margin-top: 0px;
+        margin-bottom: 0px;
+        font-family: Verdata, Arial, Helvetica, sans-serif;
+        margin: 0;
+        padding: 0;
+        text-align: center;
+        background-color: #444;
+        }
+
+#wrapper {
+        margin: 0px auto;
+        width: 952px;
+        text-align: left;
+        }
+
+#header {
+        width: 100%;
+        height: 187px;
+        background: #000 url(/static/logo.jpg) no-repeat;
+        background-position: center; 
+        }
+
+#menu {
+        width: 100%;
+        background-color: #ccc;
+        }
+
+#main {
+        width: 100%;
+        background-color: #eee;
+        padding: 0px;
+        margin: 0px;
+        }
+
+#bubble {
+        float: left;
+        width: 100%;
+        background-color: #fee;
+        height: 210px;
+        border-bottom: 1px dotted #ccc;
+        }
+
+#bubble .panel {
+        float: left;
+        width: 290px;
+        height: 170px;
+        margin: 20px 0px 0px 20px;
+        display: inline;
+        }
+
+#bubble .panel div {
+        height: 100%;
+        width: 100%;
+        border: 2px solid #faa;
+        background-color: #fff;
+        }
+
+#content {
+        float: left;
+        width: 680px;
+        padding: 10px 5px 0px 10px;
+        }
+
+#right {
+        float: right;
+        width: 242px;
+        padding: 10px 10px 10px 5px;
+        }
+
+
+#footer {
+        clear: both;
+        width: 100%;
+        background-color: #000;
+        }
+
+#footer div {
+        text-align: center;
+        font-size: 10pt;
+        color: #fff;
+        padding: 5px;
+        }
+
+#footer div a {
+        color: #fff;
+        text-decoration: none;
+        }
+
+#footer div a:hover {
+        text-decoration: underline;
+        }
+
+.portlet {
+		width: 100%;
+        background-color: #fff;
+        margin: 0px 0px 10px 0px;
+        border: 1px solid #ddd;
+		padding: 0px 0px 10px 0px;
+        clear: both;
+        }
+
+.sold {
+		width: 100%;
+        background-color: #fff;
+		background-image: url('/static/images/sold.png');
+		background-repeat: no-repeat;
+		background-position: bottom right;
+        margin: 0px 0px 10px 0px;
+		padding: 0px 0px 10px 0px;
+        border: 1px solid #ddd;
+        clear: both;
+        }
+
+.reserved {
+		width: 100%;
+        background-color: #fff;
+		background-image: url('/static/images/reserved.png');
+		background-repeat: no-repeat;
+		background-position: bottom right;
+        margin: 0px 0px 10px 0px;
+		padding: 0px 0px 10px 0px;
+        border: 1px solid #ddd;
+        clear: both;
+		}
+
+.red div {
+        height: 122px;
+        background-color: #fff;
+        margin: 0px 0px 10px 0px;
+        border: 2px solid #c00;
+        clear: both;
+        }
+
+#content .panel {
+        width: 680px;
+        }
+
+#right .panel {
+        width: 240px;
+        }
+
+h1, h2, h3      {
+        padding: 5px 0px 5px 0px;
+        margin: 10px;
+        border-bottom: 1px dotted #ddd;
+        }
+
+h1 a, h2 a, h3 a {
+        color: #000;
+        text-decoration: none;
+        }
+
+h1 a:hover, h2 a:hover, h3 a:hover {
+        color: #000;
+        text-decoration: underline;
+        }
+
+h1      {
+        font-size: large;
+        }
+
+
+h1	{
+	font-size: large;
+	}
+
+h2, h3  {
+        font-size: medium;
+        }
+
+        
+p       {
+        padding: 0px;
+        margin: 10px;
+        vertical-align: top;
+        }
+
+p.cont  {
+		float: right;
+        width: 485px;
+        vertical-align: top;
+		margin: 0px 10px 10px 0px;
+        }
+
+p.vid {
+		float: right;
+        width: 380px;
+        vertical-align: top;
+		margin: 0px 10px 10px 0px;
+		}
+
+.si     {
+        float: left;
+        border: 4px solid #ccc;
+		margin: 0px 10px 0px 0px;
+		padding: 2px;
+        vertical-align: top;
+        }
+
+.si:hover {
+		border: 4px solid #ccc;
+		margin: 0px 10px 0px 0px;
+		padding: 2px;
+		color: #fff;
+		}
+
+.video {
+		float: left;
+		
+}
+
+.button {
+		border: 0px;
+		float: left;
+		margin: 0px 10px 10px 0px;
+	}
+
+.f		{
+		clear: both;
+		}
+		
+ul li	{ 
+	  	list-style-type: none; 
+	  	} 
+
+#shop   {
+        float: right;
+        border: 4px solid #ccc;
+		margin: 0px 0px 0px 10px;
+		padding: 2px;
+        }
+
+#restoredpiano   {
+		float: left;
+		border: 4px solid #ccc;
+		margin: 0px 10px 0px 0px;
+		padding: 2px;
+		}
+
+.stool  {
+        float: left;
+		margin: 0px 10px 10px 0px;
+        }
+
+.portlet {
+	zoom: 1;
+}
+		
+.portlet:after {
+   content: ".";
+   visibility: hidden;
+   display: block;
+   height: 0;
+   clear: both;
+}
+
+.sold {
+	zoom: 1;
+}
+
+.sold:after {
+	content: ".";
+	visibility: hidden;
+	display: block;
+	height: 0;
+	clear: both;
+}
+
+.reserved {
+	zoom: 1;
+}
+
+.reserved:after {
+	content: ".";
+	visibility: hidden;
+	display: block;
+	height: 0;
+	clear: both;
+}
+
+.blogger-post-footer {
+	display: none;
+	}
+
+.picasa {
+        height: 265px;
+        padding: 0px 20px 0px 10px;
+        }
+
+.picasa div {
+        float: left;
+        border: 0px;
+        }
+
+.thumb  {
+        clear: both;
+        min-height: 130px;
+        height: auto !important;
+        height: 130px;
+        }
+
+.tst {
+        font-weight: bold;
+        }
+
+#map_canvas {
+	padding: 10px;
+	width: 635px;
+	height: 450px
+	}
+
+.BLOG_video_class {
+	float: left;
+	padding: 10px;
+}
