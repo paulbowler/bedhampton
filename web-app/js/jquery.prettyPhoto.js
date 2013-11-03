@@ -494,7 +494,8 @@
 			$('.pp_loaderIcon').hide();
 
 			// Calculate the opened top position of the pic holder
-			projectedTop = scroll_pos['scrollTop'] + ((windowHeight/2) - (pp_dimensions['containerHeight']/2));
+			// projectedTop = scroll_pos['scrollTop'] + ((windowHeight/2) - (pp_dimensions['containerHeight']/2));
+			projectedTop = scroll_pos['scrollTop'] + 100;
 			if(projectedTop < 0) projectedTop = 0;
 
 			$ppt.fadeTo(settings.animation_speed,1);
