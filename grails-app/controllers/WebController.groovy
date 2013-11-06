@@ -3,7 +3,7 @@ class WebController {
 
     def refresh = {
 		contentService.refresh()
-		redirect(url:'http://www.bedhamptonpianoshop.co.uk')
+		redirect(action:'index')
 	}
 
 	def index = {
