@@ -8,6 +8,12 @@ body {
         background-color: #444;
         }
 
+a { text-decoration:none; }
+
+a:hover {
+    text-decoration: underline;
+}
+
 #wrapper {
         margin: 0px auto;
         width: 952px;

@@ -13,7 +13,7 @@
 				<div id="content">
 					<div class="panel">
 						<div class="portlet">
-							<h1>Customer Testimonials</h1>
+							<h1>What Our Customers Say</h1>
 							<p>Below are some of the many emails we have received from satisfied customers regarding the quality of our work and
 							high standards we constantly strive to deliver.
 						</div>

@@ -34,26 +34,31 @@
 					<g:render template="/shared/carouselTemplate" model="[pianos:pianos]"/>
 					<div class="panel">
 						<div class="portlet">
-						<h1>Bedhampton Piano Shop</h1>
-						<p>
-							<a class="lightbox" href="/static/images/home/large/shopfront.jpg" title="Bedhampton Piano Shopfront">
-								<img id="shop" src="/static/images/home/shopfront.jpg" alt="Bedhampton Piano Shopfront">
-							</a>
-						<p>
-						<p>Bedhampton Pianoshop was established in 1988, and we have been buying, selling and restoring pianos ever since. We always have a selection of <g:link action="pianosForSale">pianos for sale</g:link>. Our aim is to stock a range of restored <g:link action="restoredPianos">upright pianos</g:link>, <g:link action="grandPianos">grand pianos</g:link> and <g:link action="modernPianos">modern pianos</g:link>, with something to accommodate all requirements, tastes and budgets.</p>
-						<p>Our second hand stock is professionally reconditioned, with the benefit of over 20 years’ experience in all aspects of restoration, and an extensive network of expert technicians. We can also carry out work on your own piano, and will undertake anything from a small repair to a complete rebuild. We cover large parts of Hampshire, West Sussex, Surrey and Dorset, but also serve customers from further afield, and pianos can be delivered nationwide.</p>
-						<p>We have the ability to carry out almost any aspect of restoration, however large or small, and we are able to do most jobs in-house, keeping costs low. Our most common restoration procedures include action reconditioning and repairs, regulation, restringing, cleaning or repolishing of casework and cleaning or re-covering of keys. Please visit our <g:link action="restoration">piano restoration</g:link> or <g:link action="video">video</g:link> pages for further details and examples of our work.</p>
-						<p>
+							<h1>Bedhampton Piano Shop</h1>
+							<p>
+								<a class="lightbox" href="/static/images/home/large/shopfront.jpg" title="Bedhampton Piano Shopfront">
+									<img id="shop" src="/static/images/home/shopfront.jpg" alt="Bedhampton Piano Shopfront">
+								</a>
+							<p>
+							<p>Are you looking for an immaculately restored piano? Would you like your piano repaired by professionals? Is it time to sell your piano? If the answer's yes you're in the right place.</p>
+
+							<p>Our friendly, helpful and knowledgeable team of piano experts will help you make the right decision and with over 25 years' experience of <a href="/pianos_for_sale/">buying</a>, <a href="/sell_your_piano/">selling</a> and <a href="/piano_restoration/">restoring</a> pianos under our belts, you're in safe hands.</p>
+
+							<p>Bedhampton Pianoshop is an Aladdin's cave of high quality reconditioned <a href="/pianos_for_sale/">pianos for sale</a> and we've something for every taste, budget and requirement - <a href="/pianos_for_sale/restored_pianos/">upright pianos</a>, <a href="/pianos_for_sale/grand_pianos/">grand pianos</a>, and <a href="/pianos_for_sale/modern_pianos/">modern pianos</a> - as well as our extensive collection of made to measure <a href="/piano_stools/">piano stools</a>.</p>
+
+							<p>And if your piano is in need of some care and attention we'll happily undertake repairs of all sizes, mostly in-house, including a complete rebuild. </p>
 							<a class="lightbox" href="/static/images/home/large/piano.jpg" title="Restored Piano">
 								<img id="restoredpiano" src="/static/images/home/piano.jpg" alt="Restored Piano">
 							</a>
-						<p>
-						<p>Whether you are looking to buy a piano, or are considering having your own piano restored, we provide everything you need. We offer friendly, honest and practical advice, professional collection and delivery services and complete aftersales support.  Our customers are often fully involved in the restoration process, with regular photo and video updates giving the experience a personal touch. Our customer service is second to none (read our <g:link action="testimonials">customer testimonials</g:link>). We fully recognise that it is you that keeps us in business, and your satisfaction is our priority.</p>
-						<p>Over time we have worked on and sold many of the great piano makes including Steinway, Bluthner, Bechstein, Grotrian Steinweg, John Broadwood, Knight, Welmar, Hopkinson, Chappell, Challen, Marshall &amp; Rose, John Brinsmead, Kaps, Richard Lipp, Ed Seiler, Scheidmayer, Schimmell, Gors &amp; Kallmann, Yamaha and Kawai. If you are searching for a particular piano, please <g:link action="contact">get in touch</g:link> to see if we can help.</p>
-						<p>Our showroom and workshop are ideally situated in <g:link action="contact">Bedhampton</g:link>, near Havant in Hampshire. We are only 15 minutes drive from Portsmouth, Fareham, Petersfield and Chichester, and just 2 minutes from both the A27 and A3M. Free parking is available on our forecourt. Please view our <g:link action="contact">contact page</g:link> for opening hours.</p>
-						<p>If you need more help or advise please contact me directly on 02392 484802.
-						</p>
-						<p><strong>Graham Nicholls (Director)</strong></p> 
+
+							<p>Just some of the great piano names we've worked on include Steinway, Bluthner, Bechstein, Grotrian Steinweg, John Broadwood, Knight, Welmar, Hopkinson, Chappell, Challen, Marshall & Rose, John Brinsmead, Kaps, Richard Lipp, Ed Seiler, Scheidmayer, Schimmell, Gors & Kallmann, Yamaha and Kawai. </p>
+
+							<p>Our showroom and workshop is located on the south coast close to the A3 and A27 but our customers are local, national and international so wherever you're based, you can tap into our exceptional service and outstanding stock of restored and pre-loved pianos. </p>
+
+							<p>We offer a professional collection and delivery service and our after sales support comes as standard.</p>
+
+							<p>But don't take our word for it - see some of our pianos in action or read what our customers say. We're happy to provide a quote, advice and assistance free of charge so <a href="/contact/">contact us</a> on 02392 484802 or email <a href="mailto:sales@bpspianos.com">sales@bpspianos.com</a> today.<p>
+							<p>
 						</div>
 					</div>
 				</div>

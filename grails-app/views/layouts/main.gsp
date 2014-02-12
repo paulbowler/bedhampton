@@ -5,6 +5,7 @@
         <g:layoutHead />
         <meta name="google-site-verification" content="5YPiEbQJGhRQM0FiF4K1h4p0jbbnw_P9gcCgoQeAKeI" />
 		<link rel="shortcut icon" type="image/x-icon" href="/static/favicon.ico">
+		<link href="/static/normalize.css" rel="stylesheet" type="text/css" />
 		<link href="/static/default.css" rel="stylesheet" type="text/css" />
         <link href="/static/SpryAssets/SpryMenuBarHorizontal.css" rel="stylesheet" type="text/css">
 	    <script src="/static/SpryAssets/SpryMenuBar.js" type="text/javascript"></script>
